@@ -1,5 +1,6 @@
 package org.example;
 
+// temporary comment to trigger github action 
 public class Application {
     public static void main(String[] args) {
         if (args.length == 0) {
